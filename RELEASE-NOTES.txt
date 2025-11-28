@@ -1,6 +1,6 @@
 26.6
 -----
-
+* [**] Add "Freshly Pressed" to Discover in Reader [#24828]
 
 26.5
 -----
